@@ -1,0 +1,17 @@
+{
+  "name": "nodemysql2",
+  "version": "0.0.0",
+  "description": "My first MySQL sequelize",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Quintas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.2.0",
+    "mysql": "^2.2.0",
+    "sequelize": "^1.7.5",
+    "less": "^1.7.0"
+  }
+}
